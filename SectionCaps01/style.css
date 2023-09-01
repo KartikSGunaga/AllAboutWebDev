@@ -1,0 +1,40 @@
+.cloud{
+    text-align: justify;
+}
+
+.mountain{
+    text-align: center;
+}
+
+div.front{
+    background-color: #00ADB5;
+    color: #EEEEEE;
+    font-family: 'Kalam', cursive;
+    text-align: center;
+}
+
+#myphoto{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 50px 680px;
+}
+
+.formal, .head{
+    background-color: #EEEEEE;
+    text-align: center;
+    color: #00ADB5;
+    clear: both;
+    margin-top: 30px;
+}
+
+p{
+    color: #222831;
+    margin-bottom: 50px;
+}
+
+#skillset{
+    float: left;
+    position: relative;
+    margin-right: 20px;
+}
